@@ -28,7 +28,7 @@ The goal is to provide a solid static frontend base that can later be upgraded (
 - Footer with company links, social icons, copyright  
 
 ## Folder & File Structure  
-* Myntra_Clone.html - main HTML page integrated with CSS 
+* Myntra_Express.html - main HTML page integrated with CSS 
 
 ## Getting Started  
 
