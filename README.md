@@ -1,4 +1,4 @@
-# Interactive FRront-End for Myntra Express-Clone
+# Interactive Front-End for Myntra Express-Clone
 _A responsive fashion-eCommerce homepage built with pure HTML & CSS._
 
 ## Table of Contents  
